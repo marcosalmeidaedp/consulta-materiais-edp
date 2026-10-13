@@ -1,0 +1,18 @@
+{
+  "name": "Consulta de Materiais EDP",
+  "short_name": "Materiais EDP",
+  "description": "Consulta de códigos de materiais elétricos offline",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#101b35",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
